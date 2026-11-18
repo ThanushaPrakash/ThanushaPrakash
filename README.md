@@ -30,12 +30,12 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,java" />
 </p>
 
 ### AI / ML & Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
 </p>
 
 ### Development Tools
@@ -45,7 +45,7 @@
 
 ### Additional Technologies
 
-`YOLOv8` `MTCNN` `FaceNet` `KNN` `NumPy` `Pandas` `Scikit-learn`
+`YOLOv8` `MTCNN` `FaceNet` `KNN` `NumPy` `Pandas` `Scikit-learn`  
 
 ---
 
